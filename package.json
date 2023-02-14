@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/microsoft/Web-Dev-For-Beginners.git"
+		"url": "git+https://github.com/unram-if/Web-Dev-For-Beginners.git"
 	},
 	"keywords": [
 		"web",
@@ -19,9 +19,9 @@
 	"author": "Microsoft Cloud Advocates",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/microsoft/Web-Dev-For-Beginners/issues"
+		"url": "https://github.com/unram-if/Web-Dev-For-Beginners/issues"
 	},
-	"homepage": "https://github.com/microsoft/Web-Dev-For-Beginners#readme",
+	"homepage": "https://github.com/unram-if/Web-Dev-For-Beginners#readme",
 	"devDependencies": {
 		"docsify-to-pdf": "0.0.5"
 	}
